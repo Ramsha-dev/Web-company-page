@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #020202;
+}
+#hero{
+    background-image: url(images/bgimage.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-weight: 800;
+    margin-top: 0;
+    font-size: -webkit-xxx-large;
+}
+.content{
+    margin-left: 50px;
+    padding-top: 100px;;
+}
+.underline{
+    border-bottom: 5px solid #0ea5e9;
+}
+.btn{
+    background-color: #0ea5e9;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    font-weight: bold;
+    font-family: inherit;
+    font-size: large;
+}
